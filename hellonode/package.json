@@ -1,0 +1,20 @@
+{
+  "name": "hello", 
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "servers.js",
+  "scripts": {
+    "test": "test",
+    "start":"node servers.js",
+    "dev":"nodemon servers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ye Htun",
+  "license": "MIT"
+}
